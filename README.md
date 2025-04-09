@@ -130,10 +130,11 @@ jupyter nbextension enable --py widgetsnbextension --sys-prefix
 This project is open-source and licensed under the MIT License.
 
 ## 🙌 Acknowledgements
-- **HuggingFace Transformers**
+- **HuggingFace Transformers.**
 
-- **BERT: Pre-training of Deep Bidirectional Transformers**
+- **BERT: Pre-training of Deep Bidirectional Transformers.**
 
-- **Special thanks to the dataset providers.**
+- **Special thanks to book Transformers for Natural Language Processing and Computer Vision - Third Edition
+By : Denis Rothman**
 
 
